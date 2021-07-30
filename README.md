@@ -27,7 +27,7 @@ input : ” How to do squat ? ” => output : squat video
 
  Will update again when I am free. :smirk:
 
- <img src="images/Linebot_QRCode.png" width=200px>
+ <img src="images/Linebot_QRcode.png" width=200px>
 
  ----
  ## Reference
