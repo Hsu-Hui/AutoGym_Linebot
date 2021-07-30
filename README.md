@@ -27,10 +27,10 @@ input : ” How to do squat ? ” => output : squat video
 
  Will update again when I am free. :smirk:
 
- <img src="images/linebot_QRCode.png" width=200px>
+ <img src="images/Linebot_QRCode.png" width=200px>
 
  ----
  ## Reference
-[Line official document]("https://github.com/line/line-bot-sdk-nodejs")
+[Line official document](https://github.com/line/line-bot-sdk-nodejs)
 
-[google sheets official document]("https://support.google.com/docs/answer/183965?hl=zh-Hant&ref_topic=9083762")
+[google sheets official document](https://support.google.com/docs/answer/183965?hl=zh-Hant&ref_topic=9083762)
